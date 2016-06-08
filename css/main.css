@@ -1,0 +1,328 @@
+/*HEADER-ANALY*/
+.hero {  /*BACKGROUND HEADER*/
+	background-image: url(../img/background/hero.jpg);
+	background-size: 100% auto;
+	height: 680px;
+	padding-top: 30px;
+	opacity: 0.9;
+	margin-bottom: 120px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.h1Primes { /*TÍTULO*/
+	padding-left: 100px;
+	color: white;
+	font-family: Open Sans;
+	font-size: 25px;
+}
+li {
+	display: inline-block;
+}
+.menuheader { /*MENU HEADER*/
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 20px;
+	font-family: Open Sans;
+	font-size: 15px;
+	font-weight: bold;
+}
+.h2BusinessPrimes { /*H2 BUSINESS PRIMES*/
+	font-weight: lighter;
+	font-size: 50px;
+	color: white;
+	font-family: Open Sans;
+}
+#botonblack { /*BOTON OUR PORTFOLIO*/
+	background-color: #404040;
+	width: 175px;
+	height: 80px;
+	padding-top: 25px;
+	margin-right: 50px;
+	display: inline-block;
+	margin-top: 50px;
+}
+#botonwhite { /*BOTON LEARN MORE*/
+	background-color: rgba(255,255,255,0.3);
+	width: 175px;
+	height: 80px;
+	padding-top: 25px;
+	margin-right: 50px;
+	display: inline-block;
+	margin-top: 50px;
+}
+/*SECCION 2 ICONOS-KARLA*/
+/*KARLA ICONOS MAP*/
+.relative-icon {
+	position: relative;
+	left: 150px;
+	font-size: 40px;
+}
+/*SECCION 2*/
+/*KARLA MORE FEATURES*/
+
+.bg-more {
+	height: 500px;
+}
+.p-more {
+	color: #404040;
+}
+.laps {
+	width: 900px;
+	height: 400px;
+	position: relative;
+	left: 100px;
+}
+.lorem {
+	height: 500px;
+}
+.icon-size-more {
+	font-size: 25px;
+}
+.p-icon-more {
+	font-size: 18px;
+	font-family: Open Sans;
+}
+.p-more-pad {
+	padding-left: 35px;
+	font-size: 13px;
+	font-family: Open Sans;
+}
+/*SECCION 3 PORTFOLIO-ANALY*/
+.backgroundgray {
+	background-color: rgb(244, 244, 244);
+	width: 100%;
+	height: 1400px;	
+	margin-top: 60px;
+	padding-top: 40px;
+}
+.p-more { /*TITULOS DE SECCIONES*/ /*TRAER DEL CÓDIGO DE KARLA*/
+	font-size: 35px;
+	color: #404040;
+}
+#botongreen { /*BOTON SHOW ALL*/
+	background-color: #0dc0c0;
+	width: 120px;
+	height: 35px;
+	padding-top: 6px;
+	display: inline-block;
+	margin-top: 30px;
+}
+.botonwhite { /*BOTONES MENU PORTFOLIO*/
+	background-color: white;
+	width: 120px;
+	height: 35px;
+	padding-top: 6px;
+	display: inline-block;
+	margin-top: 30px;
+}
+.backgroundwhite { /*FONDO BLANCO IMAGENES*/
+	background-color: white;
+	width: 100%;
+	height: 325px;
+	padding-top: 15px;
+	margin-top: 30px;
+	border-style: solid double;
+	border-width: 1px;
+	border-color: #EFEFEF;
+}
+#img1 { /*IMAGEN 1a*/
+	background-image: url(../img/grid/1a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#img2 { /*IMAGEN 2a*/
+	background-image: url(../img/grid/2a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#img3 { /*IMAGEN 3a*/
+	background-image: url(../img/grid/3a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#img4 { /*IMAGEN 4a*/
+	background-image: url(../img/grid/4a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#img5 { /*IMAGEN 5a*/
+	background-image: url(../img/grid/5a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#img6 {	/*IMAGEN 6a*/
+	background-image: url(../img/grid/6a.jpg);
+	width: 95%;
+	height: 250px;
+	margin-bottom: 5px;
+}
+#botonloadmore { /*BOTON LOAD MORE*/
+	background-color: #434343;
+	width: 120px;
+	height: 45px;
+	padding-top: 12px;
+	margin-top: 50px;
+}
+/*KARLA BACKGROUND IMAGE*/
+.city-bck {
+	background-image: url(../img/background/city.jpg);
+	height: 400px;
+}
+.city {
+	height: 400px;
+}
+.div-city {
+	margin-left: ;
+}
+.p-city {
+	font-size: 20px;
+	font-family: Open Sans;
+}
+.button-call {
+	width: 200px;
+	height: 70px;
+	margin-right: 600px;
+	background-color: rgba(255,255,255,0.3);
+	border: hidden;
+}
+/*SECCION 5 CHOOSE THE PACKAGE-ANALY*/
+.backgraychoose {
+	background-color: rgb(244, 244, 244);
+	width: 100%;
+	height: 900px;
+	margin-top: -85px;
+}
+.backgroundwhite1 { /*FONDO BLANCO CHOOSE*/
+	background-color: white;
+	width: 100%;
+	height: 660px;
+	padding-top: 30px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+	border-style: solid double;
+	border-width: 1px;
+	border-color: #EFEFEF;
+}
+.frontblack { /*FONDO NEGRO STANDARD-ULTIMATE*/
+	background-color: #434343;
+	width: 90%;
+	height: 120px;
+	padding-top: 40px;
+}
+.frontgray { /*FONDO GRIS PRECIOS*/
+	background-color: rgb(244, 244, 244);
+	width: 90%;
+	height: 150px;
+	padding-top: 55px;
+	margin-bottom: 70px;
+}
+.frontgreen{ /*FONDO VERDE PREMIUM*/
+	background-color: #0dc0c0;
+	width: 90%;
+	height: 120px;
+	padding-top: 40px;
+}
+hr {
+	width: 90%;
+	color: gray;
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+#botonpurchase { /*BOTON PURCHASE*/
+	background-color: #434343;
+	width: 150px;
+	height: 50px;
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+/*KARLA SECTION MINI FOTO */
+.customers {
+	font-size: 30px;
+	font-family: Open Sans;
+}
+.custom-pic {
+	width: 100px;
+	height: 100px;
+	border-radius: 90px;
+	margin-left: 500px;
+}
+.p-what {
+	width: 700px;
+	margin-left: 200px;
+}
+.p-custom {
+	font-size: 15px;
+	font-family: Open Sans;
+}
+.inline {
+	display: inline-block;
+}
+/*SECCION 7 CONTACT US-ANALY*/
+#backgroundcontact { /*FONDO CONTACT US*/
+	background-image: url(../img/background/contactus-1.jpg);
+	background-size: 100% auto;
+	height: 750px;
+	opacity: 0.9;
+	z-index: -1;
+}
+.p-contact { /*TITULO CONTACT US*/
+	font-size: 35px;
+	color: #FFFFFF;
+	margin-bottom: 30px;
+	font-family: Open Sans;
+}
+.rowsendmessage { /*RENGLON EMAIL-SUBJECT*/
+	background-color: gray;
+	opacity: 0.3;
+	width: 100%;
+	height: 50px;
+	padding-left: 15px;
+	padding-top: 15px;
+	margin-top: 30px;
+}
+.rowsendmessage1 { /*RENGLON MESSAGE*/
+	background-color: gray;
+	opacity: 0.3;
+	width: 100%;
+	height: 220px;
+	padding-left: 15px;
+	padding-top: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#botonsubmit { /*BOTON SUBMIT*/
+	background-color: #0dc0c0;
+	width: 150px;
+	height: 70px;
+	padding-top: 23px;
+}
+.iconwhite { /*ICONOS LOCALIZACION-PHONE*/
+	color: white;
+}
+/*SECCION 8 FOLLOW US-ANALY*/
+.p-follow { /*TITULO FOLLOW US*/
+	font-size: 35px;
+	color: #888;
+	margin-bottom: 30px;
+	font-family: Open Sans;
+}
+.iconsfollow {
+	font-size: 30px;
+	color: #434343;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*FOOTER*/
+.foot-h {
+	margin-top: 90px;
+	height: 125px;
+	background-color: #434343;
+}
